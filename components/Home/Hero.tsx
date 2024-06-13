@@ -18,7 +18,7 @@ const Hero = () => {
         </div>
 
         <div className="flex justify-center items-center object-center">
-          <Image className="object-center" src="/supercar.png" alt="bmw" width={400} height={500} />
+          <Image className="object-center" src="/3Dcutecar.png" alt="bmw" width={400} height={500} />
         </div>
       </div>
     </div>
